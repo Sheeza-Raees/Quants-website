@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image:linear-gradient( rgba(15, 13, 20, 0.96),rgba(206, 16, 29, 0.5), black );
+  
+    
+}
+.navbar-brand > img{
+    height: auto;
+    width:11%;
+    margin-left: 20px;
+}
+.navbar{
+    position: ;
+    overflow: hidden;
+    margin-top: 0;
+    width:100%;
+   
+    background-color:  rgb(102, 18, 24) !important;
+    border:1px solid rgb(19, 18, 18);
+    box-shadow: 4px 4px 3px black;
+        top: 0;
+        z-index: 100;
+        position: fixed;
+        
+      }
+
+      .nav-link{
+        color:white !important;
+        font-weight: bold ;
+        width:auto;
+        text-align: center;
+        font-family: "Mr Dafaoe";
+        font-size: 15px;
+        color:white;
+        background-image:linear-gradient(rgb(214, 8, 8),rgb(10, 10, 10)) !important; 
+        border: 1px solid black !important;
+        margin-right: 7px;
+        border-radius: 25px;
+        width:100px;
+        
+    
+    }
+.nav-link:hover{
+
+    color: chartreuse !important;
+
+
+}
+
+
+.navbar-text{
+    margin-right: 30px;
+ 
+}
+.navbar-toggler{
+   background-color: rgb(201, 32, 32);
+    
+}
+.container >p{
+    color: wheat;
+    font-size: 30px;
+    background-color: violet;
+}
+.icons{
+    text-align: right;
+    
+}
+.icons .fa{padding: 10px;
+    color: blue;
+    font-size: 24px;
+
+}
+.fa:hover{
+    color: #C62828;
+}
+.end{
+    background-color:rgb(109, 15, 15);
+    color:white ;
+    padding-top: 20px;
+    padding-bottom: 1px;
+    text-align: center;
+    height: auto;
+    box-shadow:3px 3px 3px 4px rgb(228, 208, 208);
+
+}
+.foot{
+    margin-top:80px;
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+.foot p{
+    color:white;
+}
+.container{
+    margin-top: 120px;
+}
+.para p{
+    font-size: 20px;
+    color: white;
+    font-family: "Mr. Dafoe";
+
+}
+.para-text ,h5{
+    text-align: center;
+    padding-bottom: 40px;
+    color: black !important;
+    font-size: 25px !important;
+    font-family: "Mr. Dafoe" !important;
+}

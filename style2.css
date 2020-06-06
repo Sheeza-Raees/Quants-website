@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height:700px;
+    background-image:linear-gradient( rgba(15, 13, 20, 0.9),rgba(192, 21, 32, 0.726), rgb(0, 0, 0)) ;
+    
+    
+}
+
+
+.navbar-brand > img{
+    height: 65px;
+    width:13%;
+    margin-left: 20px;
+}
+.navbar{
+    position: ;
+    overflow: hidden;
+    margin-top: 0;
+    width:100%;
+    
+    background-color:  rgb(102, 18, 24) !important;
+    border:1px solid rgb(19, 18, 18);
+    box-shadow: 4px 4px 3px black;
+    top: 0;
+    z-index: 100;
+    position: fixed;
+        
+      }
+      .nav-link{
+        color:white !important;
+    font-weight: bold ;
+    width:auto;
+    text-align: center;
+    font-family: "Mr Dafaoe";
+    font-size: 15px;
+    color:white;
+    background-image:linear-gradient(rgb(214, 8, 8),rgb(10, 10, 10)) !important; 
+    border: 1px solid black !important;
+    margin-right: 12px;
+    border-radius: 25px;
+    width:100px;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    
+        
+    
+    }
+    
+    
+    .navbar-text{
+        margin-right: 20px;
+     
+    }
+    .navbar-toggler{
+       background-color: rgb(201, 32, 32);
+        
+    }
+    .container {
+        margin-top: 20px;
+       position: relative;
+     
+        margin: 0 auto; /* Center it */
+       
+
+      }
+      .container > img{
+          margin-top: 50px;
+          
+          height:550px;
+          box-shadow: 2px 2px 2px 2px rgba(24, 16, 16, 0.863);
+      }
+      .container .content {
+          
+        height:auto;
+        position: absolute; /* Position the background text */
+        bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+        background: rgb(0, 0, 0); /* Fallback color */
+        background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+        color: #f1f1f1; /* Grey text */
+        width:97.5%; /* Full width */
+        padding: 40px; /* Some padding */
+        font-family: "Mr. Dafaoe";
+      }
+      .container .content > h1{
+          
+          border-bottom:2px solid rgba(192, 31, 22, 0.829);
+          margin-bottom: 20px;
+          color:black !important;
+          font-weight: bold;
+      }
+      
+      .container .content > p{
+          font-size: 20px;}
+      
+ .icons{
+    text-align: right;
+    
+}
+.icons .fa{padding: 10px;
+    color: rgb(99, 14, 14);
+    font-size: 24px;
+
+}
+.fa:hover{
+    color: #C62828;
+}
+
+.end{
+    background-color:rgb(109, 15, 15);
+    color:white ;
+    padding-top: 20px;
+    padding-bottom: 1px;
+    text-align: center;
+    height: auto;
+    box-shadow:3px 3px 3px 4px rgb(228, 208, 208);
+    font-family: "Mr. Dafao";
+    font-size: 18px;
+   
+}
+.info{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content:space-around ;
+    
+}
+.news{
+   margin-left:-8px;
+}
+
+   div > .newb{
+       text-align: center;
+   }
+   .card-body{
+       height:250px;
+   }
+   .head1{
+       text-align: center;
+       padding-top: 50px;
+       background-image:linear-gradient( rgba(15, 13, 20, 0.96),#a40b15);
+       
+    color: silver;
+    padding-bottom: 10px;
+       
+   }
+
+  .foot{
+       padding-top: 80px;
+       margin-top: 10px;
+       margin-bottom: 10px;
+   }
+   .foot p{
+       font-size: 18px;
+       color:white;
+   }

@@ -1,0 +1,285 @@
+body{
+    margin: 0;
+    padding: 0;
+  background-image:linear-gradient( rgba(15, 13, 20, 0.96),rgba(206, 16, 29, 0.5), black );
+    
+    
+}
+.navbar-brand > img{
+    height: auto;
+    width:11%;
+    margin-left: 20px;
+}
+.navbar{
+    position: ;
+    overflow: hidden;
+    margin-top: 0;
+    width:100%;
+   
+    background-color:  rgb(102, 52, 55) !important;
+    border:1px solid rgb(19, 18, 18);
+    box-shadow: 4px 4px 3px black;
+        top: 0;
+        z-index: 100;
+        position: fixed;
+        
+      }
+
+      .image1{
+          background-image: url('images/stock-1863880_1920.jpg');
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          background-attachment: fixed;
+          height:550px;
+          opacity: 0.6;
+        
+      
+        }
+
+
+/*.text1{
+    font-size: 120px;
+    text-align: center;
+    text-shadow: 5px 5px 3px rgb(196, 21, 21);
+    padding-top: 200px;
+    font-family: "cursive";
+    height:auto;
+    opacity:0.2;
+   
+    
+    
+     
+  
+}*/
+.image1 .text1{
+    margin-top: 90px;
+    height:auto;
+        position: absolute; /* Position the background text */
+        bottom: 130;
+        top:70px;
+
+         /* At the bottom. Use top:0 to append it to the top */
+         
+        /**background: rgb(17, 17, 17) !important; /* Fallback color */
+        /**background: rgba(139, 14, 14, 0.6) !important; /* Black background with 0.5 opacity */
+        color: #f1f1f1 !important; /* Grey text */
+        width:100% !important; /* Full width */
+        
+}
+.text1 > p{
+    background-color:rgba(139, 14, 14, 0.6) ;
+    opacity: 100% !important;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 60px;
+    width:100%;
+    color: #e7dcdc;
+    font-family: 'Dancing Script', cursive;
+    text-shadow:3px 3px 2px rgba(0, 0, 0, 0.534);
+   
+    
+    
+    
+}
+
+
+.nav-link{
+    color:white !important;
+    font-weight: bold ;
+    width:auto;
+    text-align: center;
+    font-family: "Mr Dafaoe";
+    font-size: 15px;
+    color:white;
+    background-image:linear-gradient(rgb(214, 8, 8),rgb(63, 56, 56)) !important; 
+    border: 1px solid black !important;
+    margin-right: 7px;
+    border-radius: 25px;
+    width:100px;
+    
+
+}
+
+
+
+
+.navbar-text{
+    margin-right: 20px;
+ 
+}
+.navbar-toggler{
+   background-color: rgb(201, 32, 32);
+    
+}
+.para{
+    background-image:linear-gradient( rgba(15, 13, 20, 0.9),rgba(170, 13, 24, 0.541)) ;
+    
+    text-align: center;
+    height:auto;
+    padding-top: 10px;
+  }
+.text2{
+    padding-top:40px;
+    font-size: 40px;
+    font-family: "Mr Dafaoe";
+    color:white;
+   
+}
+.text3{
+    padding-top:10px;
+    font-size: 20px;
+    font-family: "Mr Dafaoe";
+    justify-content: center;
+    color: white;
+    padding-bottom: 30px;
+     
+}
+.image2{
+    background-image: url("images/stock-1863880_1920.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height:500px;
+    opacity: 0.7;
+    
+}
+.events{
+    height:auto;
+    /**background-image:linear-gradient( rgba(15, 13, 20, 0.9),rgba(192, 21, 32, 0.726)) ;**/
+    text-align: center;
+   
+    padding-top: 40px;
+    color:white;
+    font-family: cursive;
+    /**backgrounds-image: url("images/stock-1863880_1920.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height:700px;**/
+    opacity: 0.8;
+   
+ 
+}
+.events >h1{
+    background-color:rgba(0, 0, 0);
+    
+    padding: 20px;
+}
+.event2{
+   
+
+    padding-bottom: 8px;
+
+}
+
+.event{
+    height: auto;
+
+}
+.btn{
+    margin-bottom: 20px;
+    margin-top: 30px;
+    color:white;
+    background-image:linear-gradient(rgb(214, 8, 8),rgb(10, 10, 10)) !important; 
+    border: 1px solid black;
+    width:150px;
+    text-align: center;
+}
+.card{
+    margin-top: 40px;
+}
+.card-img-top{
+    height: 150px;
+}
+.col{
+    padding: 10px;
+}
+ .long-button{
+ margin-top: 40px;
+}
+.d-block{
+    
+    height:400px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 0px;
+    
+    
+    
+}
+.icons{
+    text-align: right;
+    
+}
+.icons .fa{padding: 10px;
+    color: blue;
+    font-size: 24px;
+
+}
+.fa:hover{
+    color: #C62828;
+}
+.last-btn{
+    margin-left: 500px;
+}
+.end{
+    background-color:rgb(109, 15, 15);
+    color:rgb(235, 229, 229) ;
+    padding-top: 20px;
+    padding-bottom: 1px;
+    text-align: center;
+    height: auto;
+    box-shadow:3px 3px 3px 4px rgb(228, 208, 208);
+}
+.head1{
+    
+}
+.info{
+    font-family: 'Dancing Script', cursive;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around ;
+
+    
+}
+.news{
+   margin-left:-8px;
+}
+
+   .container .newb{
+       text-align: center;
+    
+   }
+   .card-body{
+       height:300px;
+       margin: 10px;
+   }
+   .head1{
+    
+       text-align: center;
+       padding-top: 20px;
+       background-image:linear-gradient( rgba(192, 21, 32, 0.753));
+       font-family: cursive;
+    color:white !important;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+  
+  
+    background-color: rgba(0, 0, 0, 0.781);
+
+       
+   }
+   .foot{
+       padding-top: 30px;
+   }
+   .foot p{
+       color:white;
+   }
+   @media screen and (max-width: 1097px){
+       .card-body{
+           height:auto;
+       }
+   }
